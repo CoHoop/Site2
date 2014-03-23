@@ -4,9 +4,9 @@ h1 {
 }
 
 
-
-header {
+.header {
 height: 100px;
 width: 100%;
 background-color: #000000;
+background: black;
 }
